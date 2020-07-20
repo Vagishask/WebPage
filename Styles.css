@@ -89,7 +89,7 @@ hr{
   line-height: 2;
 }
 .image{
-  height: 30px; width: 30px;
+  height: 5%; width: 5%;
   background-color: lightpink;
   border-radius: 100%;
 }
