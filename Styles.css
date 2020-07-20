@@ -71,7 +71,7 @@ hr{
   height: 5px; color: grey;
 }
 .p{
-  font-size: 25px;
+  font-size: 15px;
 
 
 }
@@ -89,6 +89,7 @@ hr{
   margin: 50px auto;
   /*-align: left;*/
   line-height: 2;
+    font-size:35px ;
 }
 .image{
   height: 5%; width: 5%;
