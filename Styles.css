@@ -86,9 +86,9 @@ hr{
   color: #11999E;
 }
 .skill-row{
-  width: 50%;
-  margin: 50px auto;
-  /*-align: left;*/
+  /*width: 50%;
+  margin: 50px auto;*/
+  /*align: left;*/
   line-height: 2;
 }
 .image{
