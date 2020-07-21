@@ -28,8 +28,8 @@ h2{
 h3{
   color: #11999E;
   font-family: 'Amatic SC', cursive;
-  font-size:30px ;
-  
+  font-size:35px ;
+
 
 }
 .web{
@@ -72,7 +72,7 @@ hr{
   height: 5px; color: grey;
 }
 .p{
-  font-size: 20px;
+  font-size: 17px;
 
 
 }
@@ -93,6 +93,11 @@ hr{
 }
 .image{
   height: 8%; width: 8%;
-  background-color: lightpink;
+  background-color: pink;
   border-radius: 100%;
+}
+.ig{
+  background-color: pink;
+  border-radius: 100%;
+height:50px; width: 50px;
 }
